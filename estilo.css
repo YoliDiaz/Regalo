@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    align-content: center;
+    background-color: rgb(176, 224, 230);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+h2{
+    text-align: center;
+    align-content: center;
+    border: 2px solid;  border-color: black;
+    padding: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h3{
+    text-align: center;
+    align-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+li{
+    width: 110%;
+    max-width: 110%;
+    padding: 60px;
+    border: 2px solid; border-color:  black;
+    margin: 30px;
+}
+.boton{
+    background-color: rgb(216, 191, 216);
+}
