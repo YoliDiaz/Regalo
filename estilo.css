@@ -1,7 +1,7 @@
 body{
     text-align: center;
     align-content: center;
-    background-color: rgb(176, 224, 230);
+    background: linear-gradient(to right, rgb(182, 209, 192), rgb(59, 130, 246), rgb(147, 51, 234));
     font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
