@@ -1,0 +1,15 @@
+body{
+    text-align: left;
+    align-content: center;
+  
+    background: linear-gradient(to right, rgb(182, 209, 192), rgb(59, 130, 246), rgb(147, 51, 234));
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2%;
+
+}
+.boton{
+    border: 1px; color: black;
+}
+.caja{
+    border: 1px; border-color: rgb(85, 176, 232); border-style:groove; padding: 3%;
+}
