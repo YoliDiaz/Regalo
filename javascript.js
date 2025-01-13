@@ -8,7 +8,7 @@ const questions = [
     {
         id: 2,
         questions: "2 Hobbies de la persona",
-        answers: ["Literatura", "Dibujo", "Fotografia", "Series/Pelis", "Videojugos", "Deportes"],
+        answers: ["Literatura", "Dibujo", "Fotografia", "Series/Pelis", "Videojuegos", "Deportes"],
     },
 
     {
@@ -22,6 +22,12 @@ const questions = [
         id: 4,
         questions: "4 Estilo",
         answers: ["Vintage", "Boemio", "Heavy", "Hippie", "Coquette", "Gotico", "Aesthetic"],
+    },
+
+    {
+        id: 5,
+        questions: "5 Tipo Regalo",
+        answers: ["Comprado", "Manual"],
     }
     
 ];
