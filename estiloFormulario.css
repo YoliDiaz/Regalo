@@ -8,7 +8,7 @@ body{
 
 }
 .boton{
-    border: 1px; color: black;
+    border: 1px; color: rgba(59, 56, 56, 0.658);
 }
 .caja{
     border: 1px; border-color: rgb(85, 176, 232); border-style:groove; padding: 3%;
