@@ -7,26 +7,32 @@ const questions = [
 
     {
         id: 2,
-        questions: "2 Hobbies de la persona",
-        answers: ["Literatura", "Dibujo", "Fotografia", "Series/Pelis", "Videojuegos", "Deportes"],
+        questions: "2 Sexo de la persona",
+        answers: ["Mujer", "Hombre"],
     },
 
     {
         id: 3,
-        questions: "3 Gustos Personales",
+        questions: "3 Edad de la persona",
+        answers: ["Menos de 6 años", "Entre 7 y 15 años", "Entre 16 y 25 años", "Entre 26 y 35 años", "Más de 36 años"],
+    },
+
+    {
+        id: 4,
+        questions: "4 Gustos Personales",
         answers: ["Terror", "Comedia", "Tecnologia", "Disney", "Animme", "Musica", "Poesia", "Moda"],
 
     },
 
     {
-        id: 4,
-        questions: "4 Estilo",
+        id: 5,
+        questions: "5 Estilo",
         answers: ["Vintage", "Boemio", "Heavy", "Hippie", "Coquette", "Gotico", "Aesthetic"],
     },
 
     {
-        id: 5,
-        questions: "5 Tipo Regalo",
+        id: 6,
+        questions: "6 Tipo Regalo",
         answers: ["Comprado", "Manual"],
     }
     
